@@ -1,0 +1,1779 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"sh",
+				"shortCircuitRequest"
+			],
+			[
+				"Traini",
+				"TrainingTree"
+			],
+			[
+				"Tra",
+				"TrainingTree"
+			],
+			[
+				"client",
+				"clientRecord"
+			],
+			[
+				"update",
+				"updateChildren"
+			],
+			[
+				"cil",
+				"clientRecord"
+			],
+			[
+				"cli",
+				"clientRecord"
+			],
+			[
+				"get",
+				"getAssociatedRecordFromPath"
+			],
+			[
+				"visi",
+				"visibleIndex"
+			],
+			[
+				"colum",
+				"columntreecolumn"
+			],
+			[
+				"ind",
+				"indexOfExpaneded"
+			],
+			[
+				"getCo",
+				"getColumnsForPanel"
+			],
+			[
+				"index",
+				"indexOfExpaneded"
+			],
+			[
+				"in",
+				"indexOfFirstVisible"
+			],
+			[
+				"ow",
+				"ownerWidth"
+			],
+			[
+				"col",
+				"columnWidths"
+			],
+			[
+				"Veri",
+				"VerificationID"
+			],
+			[
+				"Assess",
+				"AssessEvent"
+			],
+			[
+				"fn",
+				"fn	New Function"
+			],
+			[
+				"upda",
+				"updateSelectedRecord"
+			],
+			[
+				"getView",
+				"getViewType"
+			],
+			[
+				"cur",
+				"curType"
+			],
+			[
+				"Group",
+				"userOrGroup"
+			],
+			[
+				"getV",
+				"getViewModel"
+			],
+			[
+				"up",
+				"updateUserID"
+			],
+			[
+				"user",
+				"userList"
+			],
+			[
+				"User",
+				"UserList"
+			],
+			[
+				"old",
+				"oldUser"
+			],
+			[
+				"show",
+				"showBlank"
+			],
+			[
+				"Mod",
+				"ModuleList"
+			],
+			[
+				"Asse",
+				"AssessmentType"
+			],
+			[
+				"Module",
+				"ModuleID"
+			],
+			[
+				"define",
+				"define_moduledetaillist"
+			],
+			[
+				"role",
+				"roleId"
+			],
+			[
+				"form",
+				"formulas"
+			],
+			[
+				"view",
+				"viewModel"
+			],
+			[
+				"Sub",
+				"Submissions"
+			],
+			[
+				"Su",
+				"submissions"
+			],
+			[
+				"Submi",
+				"submissions"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"icon",
+				"iconCls"
+			],
+			[
+				"is",
+				"isEmpty"
+			],
+			[
+				"respon",
+				"responseText"
+			],
+			[
+				"drop",
+				"dropText"
+			],
+			[
+				"backgroun",
+				"background-color: "
+			],
+			[
+				"on",
+				"onDrop"
+			],
+			[
+				"fil",
+				"fileSizes"
+			],
+			[
+				"def",
+				"defaultValue"
+			],
+			[
+				"h",
+				"headers"
+			],
+			[
+				"file",
+				"fileStore"
+			],
+			[
+				"en",
+				"enhancedFileField"
+			],
+			[
+				"enhan",
+				"EnhancedFileField"
+			],
+			[
+				"use",
+				"useModelValues"
+			],
+			[
+				"mu",
+				"MultiFileUpload"
+			],
+			[
+				"add",
+				"addFileToQueue"
+			],
+			[
+				"Sum",
+				"SubmissionID"
+			],
+			[
+				"sub",
+				"submissionsCmp"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"retu",
+				"returnValue"
+			],
+			[
+				"as",
+				"associationData"
+			],
+			[
+				"ass",
+				"assessEvent"
+			],
+			[
+				"field",
+				"fieldcontainer"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"sour",
+				"sourceFn"
+			],
+			[
+				"und",
+				"underrides"
+			],
+			[
+				"mixin",
+				"mixinClass"
+			],
+			[
+				"mix",
+				"mixinClass"
+			],
+			[
+				"over",
+				"overrides"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"sup",
+				"superclass"
+			],
+			[
+				"upd",
+				"updateRecord"
+			],
+			[
+				"load",
+				"loadRecord"
+			],
+			[
+				"As",
+				"associatedData"
+			],
+			[
+				"edit",
+				"editorCmp"
+			],
+			[
+				"grouplist",
+				"grouplist"
+			],
+			[
+				"disc",
+				"DiscardGroups"
+			],
+			[
+				"Save",
+				"SaveGroups"
+			],
+			[
+				"b",
+				"buttonId"
+			],
+			[
+				"ex",
+				"expandCollapsedParent"
+			],
+			[
+				"expa",
+				"expandChildNode"
+			],
+			[
+				"expand",
+				"expandCollapsedParent"
+			],
+			[
+				"call",
+				"callParent"
+			],
+			[
+				"new",
+				"newPanel"
+			],
+			[
+				"expan",
+				"expandingPanel"
+			],
+			[
+				"cent",
+				"centerPanel"
+			],
+			[
+				"right",
+				"rightPanel"
+			],
+			[
+				"cen",
+				"centerPanel"
+			],
+			[
+				"nod",
+				"nodeStores"
+			],
+			[
+				"next",
+				"nextSibling"
+			],
+			[
+				"brea",
+				"breadCrumbTrail"
+			],
+			[
+				"ro",
+				"rootName"
+			],
+			[
+				"tr",
+				"treeStore"
+			],
+			[
+				"retur",
+				"returnItem"
+			],
+			[
+				"node",
+				"nodeStore"
+			],
+			[
+				"column",
+				"columnWidths"
+			],
+			[
+				"slide",
+				"slideLeft"
+			],
+			[
+				"first",
+				"firstHiddenPanel"
+			],
+			[
+				"all",
+				"allowSlideLeft"
+			],
+			[
+				"pan",
+				"panelConfig"
+			],
+			[
+				"collapse",
+				"collapseDirection"
+			],
+			[
+				"mem",
+				"memberParent"
+			],
+			[
+				"define_group",
+				"define_grouplist"
+			],
+			[
+				"onMem",
+				"onMemberStoreUpdated"
+			],
+			[
+				"geta",
+				"getActiveSourcePanel"
+			],
+			[
+				"ons",
+				"onSourceSelectionChange"
+			],
+			[
+				"getSel",
+				"getSelectionModel"
+			],
+			[
+				"itemsto",
+				"itemsToUnassign"
+			],
+			[
+				"getSele",
+				"getSelection"
+			],
+			[
+				"ga",
+				"getActiveSourcePanel"
+			],
+			[
+				"getME",
+				"getMembersStore"
+			],
+			[
+				"sa",
+				"saveText"
+			],
+			[
+				"member",
+				"memberPanel"
+			],
+			[
+				"type",
+				"typeID"
+			],
+			[
+				"sho",
+				"shortName"
+			],
+			[
+				"modul",
+				"moduleID"
+			],
+			[
+				"value",
+				"valueField"
+			],
+			[
+				"displ",
+				"displayField"
+			],
+			[
+				"assign",
+				"assignButtons"
+			],
+			[
+				"direc",
+				"directlyAssigned"
+			],
+			[
+				"dir",
+				"directlyAssigned"
+			],
+			[
+				"list",
+				"listXTypes"
+			],
+			[
+				"mod",
+				"modules"
+			],
+			[
+				"direct",
+				"DirectlyAsslignedModulesList"
+			],
+			[
+				"assi",
+				"assignedModulesStore"
+			],
+			[
+				"sele",
+				"selectionIDs"
+			]
+		]
+	},
+	"build_system": "projectBased",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: CallParent"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"dir",
+				"dired"
+			],
+			[
+				"packc",
+				"Package Control: Install Package"
+			],
+			[
+				"pack	",
+				"Package Control: Install Package"
+			],
+			[
+				"packare",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instapa",
+				"Package Control: Install Package"
+			],
+			[
+				"packain",
+				"Package Control: Install Package"
+			],
+			[
+				"pacconpa",
+				"Package Control: Install Package"
+			],
+			[
+				"pacak",
+				"Package Control: Remove Package"
+			],
+			[
+				"packalis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pacli",
+				"Package Control: List Packages"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 447.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/andy.lumb/Documents/projects/personal/HSCSite/HollyburnSailingClub/css/style.css",
+		"/C/Users/andy.lumb/Documents/projects/personal/HSCSite/HollyburnSailingClub/build.bat",
+		"/C/Users/andy.lumb/Documents/projects/personal/HSCSite/HollyburnSailingClub/Gemfile",
+		"/C/Users/andy.lumb/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/andy.lumb/Documents/projects/personal/HSCSite/HollyburnSailingClub/HSC.sublime-project",
+		"/C/Users/andy.lumb/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/andy.lumb/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/andy.lumb/Documents/projects/personal/HSCSite/HollyburnSailingClub/index.html",
+		"/C/Users/andy.lumb/Documents/projects/personal/HSCSite/HollyburnSailingClub/index.md",
+		"/C/Users/andy.lumb/Documents/projects/personal/HSCSite/HollyburnSailingClub/_layouts/index.html",
+		"/C/Users/andy.lumb/Documents/projects/personal/HSCSite/HollyburnSailingClub/_site/index.html",
+		"/C/Users/andy.lumb/Documents/projects/personal/HSCSite/HollyburnSailingClub/_site/about/index.html",
+		"/C/Users/andy.lumb/Documents/projects/personal/HSCSite/HollyburnSailingClub/_site/2014/11/24/hello-world/index.html",
+		"/C/Users/andy.lumb/Documents/projects/personal/HSCSite/HollyburnSailingClub/_includes/themes/bootstrap-3/index.html",
+		"/C/Users/andy.lumb/Documents/projects/personal/HSCSite/HollyburnSailingClub/_config.yml",
+		"/C/Users/andy.lumb/Documents/projects/personal/HSCSite/HollyburnSailingClub/sitemap.txt",
+		"/C/Users/andy.lumb/Documents/projects/personal/HSCSite/_site/index.html",
+		"/C/Users/andy.lumb/Documents/projects/personal/HSCSite/Gemfile",
+		"/C/Users/andy.lumb/Desktop/devkit/config.yml",
+		"/C/Users/andy.lumb/Desktop/path2.txt",
+		"/C/Users/andy.lumb/Documents/projects/personal/scripts/Proxy Info/custom_proxy.js",
+		"/C/Users/andy.lumb/Documents/projects/personal/scripts/Proxy.reg",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Amec.OS6/Models/Collection.cs",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Server/Controllers/Define/WbtController.cs",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/define/view/WbtTree.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/model/WbtNode.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/packages/sencha-core/src/data/operation/Operation.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/packages/sencha-core/src/data/proxy/Proxy.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/packages/sencha-core/src/data/Connection.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/packages/sencha-core/src/data/flash/BinaryXhr.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/packages/sencha-core/src/data/reader/Reader.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/packages/sencha-core/src/data/reader/Json.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/overrides/Ext/data/proxy/Server.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/OperationError.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/data/OSProxy.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/.sencha/app/production.properties",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/ScormEngine/ProcessAiccRequest.aspx",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Amec.OS6/packages.config",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Server/Controllers/Assign/AssignIndexController.cs",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Server/Controllers/Assign/AssignGroupController.cs",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/assign/view/UsersOrGroups.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Amec.OS6/Models/Assignment.cs",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/widget/AssociationColumn.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/ScormEngine/scripts/resources/AppStrings.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/controller/Area.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/assign/controller/UsersOrGroups.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Amec.OS6/Models/UserRole.cs",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/model/User.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/assign/controller/ThreePanelAssign.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Web.Template.config",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/assess/controller/VerifyPerform.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/assess/view/VerifyPerform.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/assess/view/VerifyEdit.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/assess/controller/AssessEdit.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Server/Controllers/Assess/VerifyController.cs",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/ScormEngine/tools/StatementViewer/resources/scripts/TinCanJS/src/ContextActivities.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/controller/Controller.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/Configuration.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/assess/controller/VerifyEdit.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/define/view/UserEdit.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/model/VerifyEvent.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/assess/view/AssessEdit.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/model/AssessEvent.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/assess/view/VerifyDetailList.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/assign/view/ThreePanelAssign.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/widget/TwoPanelAssign.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Server/Controllers/Assign/AssignUserController.cs",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/assess/controller/VerifyDetailList.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/define/view/UserDetailList.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/define/controller/GroupList.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/widget/AssessEventList.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Amec.OS6/Models/Verification.cs",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/overrides/event/Event.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/packages/ext-locale/build/ext-locale-vn.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/packages/Ext_ux_Error/src/Error.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/overrides/Ext/data/Model.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/overrides/Ext/data/schema/ManyToOne.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/data/SubtreeProxy.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/packages/sencha-core/src/data/writer/Writer.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/packages/sencha-core/test/specs/data/writer/Writer.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/data/LinkWriter.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Server/Web.Release.config",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/data/LinkProxy.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/assess/controller/AssessManage.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/overrides/Ext/data/Connection.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/packages/sencha-core/src/data/Request.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/src/grid/RowEditor.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/README.md",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/controller/Session.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Server/Server.csproj.user",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Server/Server.csproj",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/ScormEngineIntegration/obj/Debug/ScormEngineIntegration.csprojResolveAssemblyReference.cache",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/packages/sencha-core/src/data/ProxyStore.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/define/view/ModuleEdit.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/define/controller/ModuleEdit.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/define/view/ModuleEditAssessment.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/define/view/CollectionEdit.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/define/view/GroupList.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Server/TemporaryData/AssessEvent.JSON",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/assess/view/AssessManage.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/define/view/ModuleDetailList.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/util/ModelFormEditor.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/view/Menu.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Web.config",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/index.html",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/tmp/e207f384-af0e-4fdc-bfd3-243452ece05b_op1kjag1.2gh/Player/index.css",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/tmp/e207f384-af0e-4fdc-bfd3-243452ece05b_op1kjag1.2gh/Player/index.hta",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/tmp/e207f384-af0e-4fdc-bfd3-243452ece05b_op1kjag1.2gh/Player/index.html",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/ScormEngine/tools/StatementViewer/resources/index.html",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/packages/EnhancedFileField/examples/EnhancedFileField_demo/index.html",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/resources/icons.css",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Amec.OS6/Models/Completion.cs",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Amec.OS6/Models/WbtNode.cs",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/sass/src/OS/view/Menu.scss",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/train/controller/Controller.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/train/controller/Wbt.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/packages/sencha-core/src/data/proxy/Direct.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/packages/sencha-core/src/data/proxy/Server.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/packages/sencha-core/src/data/TreeStore.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Server/Web.config",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/app/train/view/Wbt.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/overrides/Ext/data/reader/Json.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/overrides/Ext/data/reader/Reader.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/ScormEngine/scripts/console/consolebody_ll.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/packages/sencha-core/src/lang/Error.js",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/ScormEngine/web.config",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/ScormEngine/SCORMEngineSettings.config",
+		"/C/Users/andy.lumb/Documents/projects/work/OS6/dev/Client/ext/packages/sencha-core/src/data/Model.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css, -bootstrap.json, -test/*, -app.js, -*min.js, -*min_ll.js, -sencha-*.js, -ScormEngine/*, -app-all.js",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css, -bootstrap.json, -test/*, -app.js, -*min.js, -*min_ll.js, -sencha-*.js, -ScormEngine/* -*/app-all.js",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css, -bootstrap.json, -test/*, -app.js, -*min.js, -*min_ll.js, -sencha-*.js, -ScormEngine/* -app-all.js",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css, -bootstrap.json, -test/*, -app.js, -*min.js, -*min_ll.js, -sencha-*.js, -ScormEngine/*",
+			"",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css, -bootstrap.json, -test/*, -app.js, -*min.js, -*min_ll.js, -sencha-*.js, -ScormEngine/*",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css, -bootstrap.json, -test/*, -app.js, -*min.js, -*min_ll.js, -sencha-*.js, -Scormngine/*",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css, -bootstrap.json, -test/*, -app.js, -*min.js, -*min_ll.js, -sencha-*.js, -Scormngine/scripts/*",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css, -bootstrap.json, -test/*, -app.js, -*min.js, -*min_ll.js, -sencha-*.js, -flowvideo/*",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css, -bootstrap.json, -test/*, -app.js, -*min.js, -min_ll.js, -sencha-*.js, -flowvideo/*",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css, -bootstrap.json, -test/*, -app.js, -*min.js, -min_ll.js, -sencha-*.js",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css, -bootstrap.json, -test/*, -app.js, -*.min.js, -sencha-*.js",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css, -bootstrap.json, -test/*, -app.js, -*.min.js, -sencha-amf.js",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css, -bootstrap.json, -test/*, -app.js, -*.min.js",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css, -bootstrap.json, -test/*, -app.js",
+			"*.sql",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css, -bootstrap.json, -test/*, -app.js",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css, -bootstrap.json, -test/*",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css, -bootstrap.json",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl*.css, -*-all*.css",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl.css, -*-all.css",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -*-all-rtl.css",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, *-all-rtl.css",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties, -all-rtl.css",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js, *.properties",
+			"*.js, *.css,-ext, *.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js",
+			"*.js, *.css,-ext*.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js",
+			"*.scss",
+			".scss",
+			"*.js, *.css,-ext*.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss, ext-dev.js",
+			"*.js, *.css,-ext*.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, *.scss",
+			"*.js, *.css,-ext*.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json",
+			"",
+			"*.js, *.css,-ext*.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json, -ext/*",
+			"*.js, *.css,-ext*.css, -ext-*.js, -ext.js, -docs/*, -classes-all.js,  -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json",
+			"*.js",
+			"*.js, *.css,-ext*.css, -ext-*.js, -ext.js, *.cs, *.py, -docs/*, -classes-all.js, *.properties, *.xml, -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, *.json",
+			"*.js, *.css,-ext*.css, -ext-*.js, -ext.js, *.cs, *.py, -docs/*, -classes-all.js, *.properties, *.xml, -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js, .json",
+			"*.js, *.css,-ext*.css, -ext-*.js, -ext.js, *.cs, *.py, -docs/*, -classes-all.js, *.properties, *.xml, -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*, -bootstrap.js",
+			"*.js, *.css,-ext*.css, -ext-*.js, -ext.js, *.cs, *.py, -docs/*, -classes-all.js, *.properties, *.xml, -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg, -examples/*",
+			"*.js, *.css,-ext*.css, -ext-*.js, -ext.js, *.cs, *.py, -docs/*, -classes-all.js, *.properties, *.xml, -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -ext-debug*.js, -ext.js, *.cs, *.py, -docs/*, -classes-all.js, *.properties, *.xml, -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs, *.py, -docs/*, -classes-all.js, *.properties, *.xml, -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg",
+			"-docs/*",
+			"",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs, *.py, -docs/*, -classes-all.js, *.properties, *.xml, -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg",
+			"",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs, *.py, -docs/*, -classes-all.js, *.properties, *.xml, -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss, *.cfg",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs, *.py, -docs/*, -classes-all.js, *.properties, *.xml, -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss",
+			"",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs, *.py, -docs/*, -classes-all.js, *.properties, *.xml, -ClientTest/*, -ClientProd/*, -build/temp/*, *.scss",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs, *.py, -docs/*, -classes-all.js, *.properties, *.xml, -ClientTest/*, -ClientProd/*, -build/temp/*",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs, *.py, -docs/*, -classes-all.js, *.properties, *.xml, -ClientTest/*, -ClientProd/*",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs, *.py, -docs/*, -classes-all.js, *.properties, *.xml",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs, *.py, -docs/*, -classes-all.js, .properties, .xml",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs, *.py, -docs/*, -classes-all.js",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs, *.py, -docs/* -classes-all.js",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs, *.py, -docs/*",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs, *.py -docs/*",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs, *.py",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs",
+			"",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs",
+			"",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs",
+			"app-all.js",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs",
+			"*.js, *.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, *.cs",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js",
+			"",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js",
+			"-.xml",
+			"",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js",
+			"",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js",
+			"CPHTMLEditor.js",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js, CPHTMLEditor.js",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js",
+			"*.*",
+			"*.*, -*.xml",
+			"*.*",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js, -ext.js",
+			"*.js, *.css,-ext*.css, -ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js",
+			"*.js, *.css,-ext*.css, ext-all*.js, ext-all.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js",
+			"*.js, *.css,-ext*.css, ext-all*.js, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js",
+			"*.js, *.css,-ext*.css, ext-al*.js -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js",
+			"*.js, *.css,-ext*.css, ext-all*.js -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js",
+			"*.js, *.css,-ext*.css, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js",
+			"*.js, *.css, -ext-all*.js,-ext.js,-ext*.css, -all-classes.js, -app-all.js, -all-externals.js, -all-TinyMCE.js",
+			"*.js, *.css, -ext-all*.js,-ext.js,-ext*.css, -all-classes.js, -app-all.js, -all-externals.js",
+			"*.js, *.css, -ext-all*.js,-ext.js,-ext*.css, -all-classes.js, -app-all.js",
+			"*Question.css, -ext-all*.js,-ext.js,-ext*.css, -all-classes.js, -app-all.js",
+			"*.js, *Question.css, -ext-all*.js,-ext.js,-ext*.css, -all-classes.js, -app-all.js",
+			"*.js, *.css, -ext-all*.js,-ext.js,-ext*.css, -all-classes.js, -app-all.js",
+			"*.js, *.css, *.cs,-ext-all*.js,-ext.js,-ext*.css, -all-classes.js, -app-all.js",
+			"*.js, *.css, *.cs,-ext-all*.js,-ext.js,-ext*.css",
+			"C:\\Users\\andy.lumb\\Documents\\projects\\work\\ContentPlayer\\migration\\Player\\app\\frametype",
+			"*.js, *.css, *.cs,-ext-all*.js,-ext.js,-ext*.css",
+			"*.js, *.css,-ext-all*.js,-ext.js,-ext*.css",
+			"*.css,-ext-all*.js,-ext.js,-ext*.css",
+			"*.js,*.css,-ext-all*.js,-ext.js,-ext*.css",
+			"*.css,-ext-all*.js,-ext.js,-ext*.css",
+			"*.js,*.css,-ext-all*.js,-ext.js,-ext*.css",
+			"*.js,*.css,-ext-all*.js,-ext.js,-ext-all*.css,-ext-ie*.css",
+			"*.js,*.css,-ext-all*.js,-ext.js,-ext-all*.css,-ext-ie-scoped.css",
+			"*.js,*.css,-ext-all*.js,-ext.js,-ext-all*.css",
+			"*.js,*.css,-ext-all*.js,-ext.js",
+			"*.js,*.css-ext-all*.js,-ext.js",
+			"-ext-all*.js,-ext.js",
+			"*.js,-ext-all*.js,-ext.js",
+			"*.js,-ext-all*.js",
+			"*.js,-ext-all.*.js",
+			"*.js,-ext-all.js",
+			"*.js;-ext-all.js",
+			"*.js",
+			"*.js,-C:\\Users\\andy.lumb\\Documents\\projects\\work\\ContentPlayer\\migration\\Player\\Archives",
+			"*.js,-*Archives*.*",
+			"*.js,-*\\Archives\\*",
+			"*.js,-Archives\\*",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"110",
+			"60",
+			".",
+			"link-row ",
+			"2",
+			"4",
+			"<!-- /.col-s",
+			"infobox",
+			"sm-4",
+			"-sm-4\">",
+			"-sm-4",
+			"255",
+			"ol",
+			"3",
+			"xs",
+			"4",
+			"md",
+			"<p><a class=\"btn btn-default\" href=\"#\" role=\"button\">View details &raquo;</a></p>",
+			"<img class=\"img-circle\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"Generic placeholder image\" style=\"width: 140px; height: 140px;\">",
+			"lG",
+			"lg",
+			"lG",
+			"lg",
+			"lG",
+			"lg",
+			"300px",
+			"400px",
+			"build",
+			"500px",
+			"woff",
+			"\\.woff",
+			"glyphicons",
+			"Posts",
+			"Hollyburn Sailing Club",
+			"Collapse [a-z]*\\t",
+			"Collapse [a-z]*",
+			"van",
+			"Module:",
+			"Module: module",
+			"iscelledi",
+			"get(\"User\")",
+			"get(\"Module\")",
+			"getResponse",
+			"getMeta",
+			"onMetaChange",
+			"metaData",
+			"extractResponseData",
+			"public IEnumerable",
+			"AsEnumerable().",
+			"reader",
+			"type.*link",
+			"two.*panel",
+			"proxy.*link",
+			"proxy.*:.*link",
+			"proxy.*link",
+			"Link",
+			"link",
+			"linkproxy",
+			"name",
+			"ctrl+shift+s",
+			"name",
+			"ctrl+shift+d",
+			"name",
+			"expand",
+			"find_under",
+			"ctrl+d",
+			"name",
+			"AssessEventList",
+			"assesseventlist",
+			"MemberParent",
+			"parentmodel",
+			"associationcolumn",
+			"clone()",
+			"userlist",
+			"selectedRecords:",
+			"idField",
+			"modified",
+			"selectedRecords",
+			"selectedRecords.*:",
+			"selectedRecords",
+			"assessor",
+			"getRecordData",
+			"PartialDataOptions",
+			"\\.clone\\(\\)",
+			"clone()",
+			"createResponse",
+			"processResponse",
+			"nullResultSet",
+			"data\\.resultset",
+			"data.resultset",
+			"resultset",
+			"phantom",
+			"VerifiedOk",
+			"two_panel_assign",
+			"parentModel",
+			"assessment",
+			"criticality",
+			"pruneRemoved",
+			"CommentID",
+			"Review",
+			"train",
+			"Module",
+			"Group",
+			"train",
+			"train_Comments",
+			"review",
+			"Review",
+			"train",
+			"OSMenu",
+			"setRootProperty",
+			"defaultRootProperty",
+			"children",
+			"rootProperty",
+			"messageProperty",
+			"extractResponseData",
+			"this",
+			"reader",
+			"Reader",
+			"metaProperty",
+			"metaData",
+			"metadata",
+			"update[a-zA-Z]*Property",
+			"updateroot",
+			"metachange",
+			"onmeta",
+			"onmetadata",
+			"getReader",
+			"linkto.*modu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\\1name: '\\2',\\n\\1bind:'{Collection.\\2}'",
+			"\\1name: '\\2'\\n\\1bind:'{Collection.\\2}'\\n",
+			"collection",
+			"Collection",
+			"collection",
+			"\\1\\n\\2bind:'{VerifyEvent.\\3}',",
+			"\\1\\n\\2bind:'{AssessEvent.\\3}',",
+			"\\1\\n\\2bind:'{AssessEvent.\\3}'",
+			"/0\\1bind:'{AssessEvent.\\2}'",
+			"\\0\\1bind:'{AssessEvent.\\2}'",
+			".lookupReference(\"assignButtons\").",
+			"lookupReference(\"assignButtons\")",
+			"lookupReference(\"indirectlyAssigned\")",
+			"lookupReference(\"directlyAssigned\")",
+			"lookupReference(\"availableItems\")",
+			"\\1name:'\\2',\\n\\1bind:'{Module.\\2}'",
+			"\\1name:'\\2',\\n\\1bind:'{Module.\\2}',",
+			"\\1name:'\\2',\\n\\1bind:'{User.\\1}',",
+			"\\1name:'\\2',\\n\\1bind:'{User.\\2}',",
+			"\\1name:'\\2',\\n\\1bind:'{User.\\1}',",
+			"OS.model.AssessmentSubmission",
+			"OS.model.AssessEvent",
+			"OS.model.",
+			"OS.model.Module",
+			"\\1.load(",
+			"\\2.querySelector(\\1)",
+			"routes: {\\1},",
+			"routes: {\\n\\1},",
+			"erify",
+			"verifyedit",
+			"Verifiy",
+			"verifiy",
+			"Verifiy",
+			"Verifier",
+			"Verify",
+			"assess",
+			"Assess",
+			"Assessments",
+			"Assess",
+			"OS.define",
+			"item",
+			"items",
+			"Items",
+			"\\1-",
+			"/1-",
+			"-",
+			"FlatMenuButtons",
+			"text:\"\\1\", cls:\"\\2\\3\\4\", ",
+			"text:\"\\1\", cls:\"\\1\\2\\3\", ",
+			"iconCls:'questionIcon'",
+			"",
+			"{tag:\"param\", name:\"\\1\", value:\"\\2\"}",
+			"Ext.ux.Error.Error",
+			"Ext.ux.Error.FogBugz",
+			"",
+			"MSO_\\1",
+			"",
+			"CP.Message({title:\\1,text:\\2});",
+			"\\1:\\2, //\\3",
+			"Video",
+			"TSLists",
+			"listitem_",
+			"listitem_listview_",
+			"Archived",
+			"[mtime] [datetime] NOT NULL DEFAULT GETDATE()",
+			"[ctime] [datetime] NOT NULL DEFAULT GETDATE()",
+			"[ModuleID] [varchar](50)",
+			"[UserID] [uniqueidentifier]",
+			"me",
+			" Ext.String.leftPad",
+			"bind",
+			", ",
+			"this.data.id",
+			"node.data.id",
+			"set",
+			"get",
+			"CP.Tracking",
+			"Data.frame",
+			"Data.frame\n",
+			"Tracking.getVisited",
+			"</orderNumber>",
+			"<orderNumber>",
+			"FileListField",
+			"",
+			"this.down(\"#calloutTextFrame\")",
+			"this.getPrintFileName()",
+			"this.getFlashEl()",
+			"this.getFlashControl()",
+			"this.getGfxFormat()",
+			"this.getFrameName()",
+			"Ext.Object.clone",
+			"Ext.String.trim(this.value)",
+			"Ext.String.trim(item.value)",
+			"Ext.Array.indexOf(\\1, ",
+			"WHIMIS Refresher Training",
+			"van-www1",
+			"130151",
+			"WHIMIS Refresher"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.404513124471,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 163.0
+	},
+	"output.find_results":
+	{
+		"height": 686.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 165.0
+	},
+	"output.sencha_result_view":
+	{
+		"height": 263.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"build",
+				"build.bat"
+			],
+			[
+				"style",
+				"assets\\themes\\bootstrap-3\\css\\style.css"
+			],
+			[
+				"definewbt",
+				"Client\\app\\define\\view\\WbtTree.js"
+			],
+			[
+				"operation",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\operation\\Operation.js"
+			],
+			[
+				"proxy",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\proxy\\Proxy.js"
+			],
+			[
+				"server/contassign",
+				"Server\\Controllers\\Assign\\AssignUserController.cs"
+			],
+			[
+				"userorg",
+				"Client\\app\\assign\\view\\UsersOrGroups.js"
+			],
+			[
+				"three",
+				"Client\\app\\assign\\view\\ThreePanelAssign.js"
+			],
+			[
+				"linkp",
+				"Client\\app\\data\\LinkProxy.js"
+			],
+			[
+				"contverper",
+				"Client\\app\\assess\\controller\\VerifyPerform.js"
+			],
+			[
+				"verper",
+				"Client\\app\\assess\\view\\VerifyPerform.js"
+			],
+			[
+				"veredi",
+				"Client\\app\\assess\\view\\VerifyEdit.js"
+			],
+			[
+				"assessedit",
+				"Client\\app\\assess\\controller\\AssessEdit.js"
+			],
+			[
+				"threepa",
+				"Client\\app\\assign\\view\\ThreePanelAssign.js"
+			],
+			[
+				"assignjs",
+				"Client\\app\\assign\\view\\UsersOrGroups.js"
+			],
+			[
+				"verifyedit",
+				"Client\\app\\assess\\controller\\VerifyEdit.js"
+			],
+			[
+				"veridet",
+				"Client\\app\\assess\\view\\VerifyDetailList.js"
+			],
+			[
+				"verdet",
+				"Client\\app\\define\\view\\UserDetailList.js"
+			],
+			[
+				"verifyde",
+				"Client\\app\\assess\\controller\\VerifyDetailList.js"
+			],
+			[
+				"assoc",
+				"Client\\app\\widget\\AssociationColumn.js"
+			],
+			[
+				"modverif",
+				"Client\\app\\model\\VerifyEvent.js"
+			],
+			[
+				"verify",
+				"Client\\app\\assess\\view\\VerifyEdit.js"
+			],
+			[
+				"verifyed",
+				"Client\\app\\assess\\view\\VerifyEdit.js"
+			],
+			[
+				"eventin",
+				"Client\\app\\assess\\view\\AssessEventInfo.js"
+			],
+			[
+				"asscol",
+				"Client\\app\\widget\\AssociationColumn.js"
+			],
+			[
+				"user",
+				"Client\\app\\model\\User.js"
+			],
+			[
+				"assco",
+				"Client\\app\\widget\\AssociationColumn.js"
+			],
+			[
+				"writer.js",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\writer\\Writer.js"
+			],
+			[
+				"assessev",
+				"Client\\app\\model\\AssessEvent.js"
+			],
+			[
+				"request",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\Request.js"
+			],
+			[
+				"aja",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\proxy\\Ajax.js"
+			],
+			[
+				"subtreepr",
+				"Client\\app\\data\\SubtreeProxy.js"
+			],
+			[
+				"server",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\proxy\\Server.js"
+			],
+			[
+				"proxyserver",
+				"Client\\overrides\\Ext\\data\\proxy\\Server.js"
+			],
+			[
+				"linkpr",
+				"Client\\app\\data\\LinkProxy.js"
+			],
+			[
+				"twopa",
+				"Client\\app\\widget\\TwoPanelAssign.js"
+			],
+			[
+				"osproxy",
+				"Client\\app\\data\\OSProxy.js"
+			],
+			[
+				"moduedit",
+				"Client\\app\\define\\controller\\ModuleEdit.js"
+			],
+			[
+				"moduleedit",
+				"Client\\app\\define\\view\\ModuleEdit.js"
+			],
+			[
+				"index",
+				"Client\\index.html"
+			],
+			[
+				"comments.j",
+				"Server\\TemporaryData\\Comments.JSON"
+			],
+			[
+				"menu",
+				"Client\\app\\view\\Menu.js"
+			],
+			[
+				"wbtnode",
+				"Client\\app\\model\\WbtNode.js"
+			],
+			[
+				"viewcollection",
+				"Client\\app\\define\\view\\CollectionEdit.js"
+			],
+			[
+				"grouplist",
+				"Client\\app\\widget\\GroupList.js"
+			],
+			[
+				"servercontgrou",
+				"Server\\Controllers\\Define\\GroupsController.cs"
+			],
+			[
+				"link",
+				"Client\\app\\data\\LinkProxy.js"
+			],
+			[
+				"model",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\Model.js"
+			],
+			[
+				"nodeint",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\NodeInterface.js"
+			],
+			[
+				"subtre",
+				"Client\\app\\data\\SubtreeProxy.js"
+			],
+			[
+				"nodeinter",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\NodeInterface.js"
+			],
+			[
+				"subtree",
+				"Client\\app\\data\\SubtreeProxy.js"
+			],
+			[
+				"proxyrest",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\proxy\\Rest.js"
+			],
+			[
+				"ospr",
+				"Client\\app\\data\\OSProxy.js"
+			],
+			[
+				"userlist",
+				"Client\\app\\widget\\UserList.js"
+			],
+			[
+				"twopane",
+				"Client\\app\\widget\\TwoPanelAssign.js"
+			],
+			[
+				"itemlist",
+				"Client\\app\\widget\\ItemList.js"
+			],
+			[
+				"client/app/define/controller/co",
+				"Client\\app\\define\\controller\\Controller.js"
+			],
+			[
+				"linkoper",
+				"Client\\app\\data\\LinkOperation.js"
+			],
+			[
+				"threepan",
+				"Client\\app\\assign\\view\\ThreePanelAssign.js"
+			],
+			[
+				"threepanelas",
+				"Client\\app\\assign\\controller\\ThreePanelAssign.js"
+			],
+			[
+				"namer",
+				"Client\\app\\model\\OSModelNamer.js"
+			],
+			[
+				"formbasi",
+				"Client\\ext\\src\\form\\Basic.js"
+			],
+			[
+				"asso",
+				"Client\\app\\widget\\AssociationColumn.js"
+			],
+			[
+				"osp",
+				"Client\\app\\data\\OSProxy.js"
+			],
+			[
+				"moduleli",
+				"Client\\app\\define\\controller\\ModuleDetailList.js"
+			],
+			[
+				"enhanccol",
+				"Client\\packages\\EnhancedFileField\\src\\ProgressColumn.js"
+			],
+			[
+				"scorm",
+				"ScormEngine\\SCORMEngineSettings.config"
+			],
+			[
+				"columnch",
+				"Client\\ext\\src\\grid\\column\\Check.js"
+			],
+			[
+				"enhanced",
+				"Client\\packages\\EnhancedFileField\\src\\EnhancedFileSubmit.js"
+			],
+			[
+				"",
+				"Client\\app\\assign\\controller\\ThreePanelAssign.js"
+			],
+			[
+				"thre",
+				"Client\\app\\assign\\controller\\ThreePanelAssign.js"
+			],
+			[
+				"two",
+				"Client\\app\\widget\\TwoPanelAssign.js"
+			],
+			[
+				"userlis",
+				"Client\\app\\widget\\UserList.js"
+			],
+			[
+				"twop",
+				"Client\\app\\widget\\TwoPanelAssign.js"
+			],
+			[
+				"proxprox",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\proxy\\Proxy.js"
+			],
+			[
+				"ajax",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\proxy\\Ajax.js"
+			],
+			[
+				"rest",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\proxy\\Rest.js"
+			],
+			[
+				"param",
+				"Client\\app\\util\\filter\\ParameterFilter.js"
+			],
+			[
+				"opera",
+				"Client\\app\\OperationError.js"
+			],
+			[
+				"paramet",
+				"Client\\app\\util\\filter\\ParameterFilter.js"
+			],
+			[
+				"osprox",
+				"Client\\app\\data\\OSProxy.js"
+			],
+			[
+				"debu",
+				"Server\\debug.html"
+			],
+			[
+				"userde",
+				"Client\\app\\define\\view\\UserDetailList.js"
+			],
+			[
+				"columntreedemo",
+				"testing\\ColumnTreeDemo\\resources\\ColumnTreeDemo-all.css"
+			],
+			[
+				"layoutbor",
+				"Client\\ext\\src\\layout\\container\\Border.js"
+			],
+			[
+				"ospro",
+				"Client\\app\\data\\OSProxy.js"
+			],
+			[
+				"modebase",
+				"Client\\app\\model\\Base.js"
+			],
+			[
+				"ccollec",
+				"Client\\app\\model\\Collection.js"
+			],
+			[
+				"lyaconcol",
+				"Client\\ext\\src\\layout\\container\\Column.js"
+			],
+			[
+				"usede",
+				"Client\\app\\define\\view\\UserDetailList.js"
+			],
+			[
+				"defineuserdet",
+				"Client\\app\\define\\view\\UserDetailList.js"
+			],
+			[
+				"app.j",
+				"Client\\app.js"
+			],
+			[
+				"wbttree",
+				"Client\\app\\define\\view\\WbtTree.js"
+			],
+			[
+				"page",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\PageMap.js"
+			],
+			[
+				"serverlocal",
+				"Server\\Web.Local.config"
+			],
+			[
+				"pagema",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\PageMap.js"
+			],
+			[
+				"pagemap",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\PageMap.js"
+			],
+			[
+				"bootstra",
+				"Client\\bootstrap.json"
+			],
+			[
+				"area",
+				"Client\\app\\controller\\Area.js"
+			],
+			[
+				"modelfo",
+				"Client\\app\\util\\ModelFormEditor.js"
+			],
+			[
+				"modelmodule",
+				"Client\\app\\model\\ModuleRecord.js"
+			],
+			[
+				"usered",
+				"Client\\app\\define\\view\\UserEdit.js"
+			],
+			[
+				"roduction",
+				"Client\\.sencha\\app\\production.properties"
+			],
+			[
+				"app.js",
+				"Client\\app.json"
+			],
+			[
+				"reader",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\reader\\Reader.js"
+			],
+			[
+				"infl",
+				"Client\\ext\\packages\\sencha-core\\src\\util\\Inflector.js"
+			],
+			[
+				"module.js",
+				"Client\\app\\define\\model\\Module.js"
+			],
+			[
+				"module",
+				"Client\\app\\define\\view\\ModuleDetailList.js"
+			],
+			[
+				"osna",
+				"Client\\app\\model\\OSModelNamer.js"
+			],
+			[
+				".css",
+				"ClientTest\\resources\\OS-all.css"
+			],
+			[
+				"base",
+				"Client\\app\\model\\Base.js"
+			],
+			[
+				"confi",
+				"Client\\app\\Configuration.js"
+			],
+			[
+				"schema",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\schema\\Schema.js"
+			],
+			[
+				"sess",
+				"Client\\app\\controller\\Session.js"
+			],
+			[
+				"group",
+				"Client\\app\\define\\model\\Group.js"
+			],
+			[
+				"controgr",
+				"Client\\app\\define\\controller\\Groups.js"
+			],
+			[
+				"controlwb",
+				"Client\\app\\define\\controller\\Wbt.js"
+			],
+			[
+				"storewbt",
+				"Client\\app\\define\\store\\WbtNodes.js"
+			],
+			[
+				"controlwbt",
+				"Client\\app\\define\\controller\\Wbt.js"
+			],
+			[
+				"datamodel",
+				"Client\\ext\\packages\\sencha-core\\src\\data\\Model.js"
+			],
+			[
+				"modelmodulejs",
+				"Client\\app\\define\\model\\Module.js"
+			],
+			[
+				"modules",
+				"Client\\app\\define\\controller\\Modules.js"
+			],
+			[
+				"modelgroup",
+				"Client\\app\\define\\model\\Group.js"
+			],
+			[
+				"userjs",
+				"Client\\app\\define\\model\\User.js"
+			],
+			[
+				"router",
+				"Client\\ext\\src\\app\\route\\Router.js"
+			],
+			[
+				"application",
+				"Client\\app\\Application.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\andy.lumb\\Documents\\projects\\work\\CP Dev.sublime-project"
+			],
+			[
+				"wine",
+				"C:\\Users\\andy.lumb\\Documents\\projects\\personal\\WineBits\\WineBits\\WineBits.sublime-project"
+			],
+			[
+				"sta",
+				"/C/Users/andy.lumb/Documents/projects/work/CP Stable.sublime-project"
+			],
+			[
+				"cur",
+				"/C/Users/andy.lumb/Desktop/CP curent.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

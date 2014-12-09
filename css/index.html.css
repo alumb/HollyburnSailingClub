@@ -1,0 +1,61 @@
+body {
+  background-color: #00a0c6;
+}
+
+h1, h2, h3 {
+  color:#222;
+}
+
+.navbar {
+  margin-bottom: 10px;
+}
+
+
+/* Carousel base class */
+.carousel {
+  height: 400px;
+  margin-bottom: 10px;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  z-index: 10;
+  background-color: rgba(0,0,0,0.4);
+  padding:5px;
+  border-radius: 10px;
+  padding-bottom: 30px;
+}
+
+.carousel-caption h1 {
+  color:#eeeeee;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: 400px;
+  background-color: #777;
+}
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  
+}
+
+
+/* three pannel boxes */
+
+.link-row {
+  color:#000;
+}
+
+.infobox {
+  background-color: rgba(244, 244, 244, 0.25);
+  box-shadow: 1px 3px 2px #4C525A;
+  padding:10px;
+  border-radius: 10px;
+}
+
+.infobox h2 {
+  margin-top: 0px;
+}
