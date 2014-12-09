@@ -1,0 +1,126 @@
+---
+layout: default
+---
+{% include JB/setup %}
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="http://hollyburnsailingclub.ca/Photos/Fullsize/247.jpg" alt="First slide">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1>Welcome</h1>
+          <p>Hollyburn Sailing Club has been a staple of the Ambleside community since 1963. Sitting on the beautiful West Vancouver shoreline it offers its members excellent Sailing conditions, unbeatable Kayaking scenery and a friendly atmosphere.</p>
+          <p><a class="btn btn-lg btn-primary" href="#" role="button">More About The Club</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="item">
+      <img src="http://hollyburnsailingclub.ca/Photos/Fullsize/220.jpg" alt="Second slide">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1>Join</h1>
+          <p>Members of the executive and club members welcome you and your family and friends to Hollyburn Sailing Club. We hope you will enjoy many wonderful moments on the ocean in the watercraft of your choice, and on land by the seaside.</p>
+          <p><a class="btn btn-lg btn-primary" href="#" role="button">Join Us</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="item">
+      <img src="http://hollyburnsailingclub.ca/Photos/Fullsize/80.jpg" alt="Third slide">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1>Co-op</h1>
+          <p>The Coop boats are owned by Holyburn Sailing Club and maintained by coop members. The club provides basic rigging and safety equipment. However, it is up to each coop member to provide their own properly fitting, regulation personal flotation devices (PFDs) for themselves and their family and guests, while using the club's co-op boats.</p>
+          <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn More About Co-op</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="item">
+      <img src="http://hollyburnsailingclub.ca/Photos/Fullsize/265.jpg" alt="Fourth slide">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1>Summer Training</h1>
+          <p>Every summer, Hollyburn Sailing Club offers sailing courses that are taught by Sail Canada Certified Instructors in a fun, engaging, safe, and relaxing atmosphere. We offer programs to Juniors aged 10 and up and Adults. These programs run from May to September of each year, with individual courses ranging from several days to four full weeks.</p>
+          <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn to Sail!</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<div class="container">
+
+  <!-- Three columns of text below the carousel -->
+  <div class="row link-row">
+    <div class="col-sm-4">
+    	<div class="infobox">
+	      <h2>About</h2>
+	      <ul>
+	      	<li>Exec</li>
+	      	<li>History</li>
+	      	<li>Constitution</li>
+	      	<li>Club House</li>
+	      	<li>Spreader</li>
+	      	<li>Photos</li>
+	      </ul>
+    	</div>
+    </div><!-- /.col-sm-4 -->
+    <div class="col-sm-4">
+    	<div class="infobox">
+	      <h2>Web-Cam</h2>
+	      <img src="http://hollyburnsailingclub.ca/Photos/Thumbnail/993.jpg" width="150px" height="140px"/>
+    	</div>
+    </div><!-- /.col-sm-4 -->
+    <div class="col-sm-4">
+    	<div class="infobox">
+	      <h2>Activites</h2>
+	      <ul>
+	      	<li>Sailing</li>
+	      	<li>Kayaking</li>
+	      	<li>Social</li>
+	      </ul>
+    	</div>
+    </div><!-- /.col-sm-4 -->
+  </div><!-- /.row -->
+
+
+
+	<div class="row">
+    <div class="col-sm-8">
+      <div class="infobox">
+       {{ content }}
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <div class="infobox">
+        <div class="fb-like-box" data-href="https://www.facebook.com/hollyburnsailingclub/" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="true" data-show-border="true" height="600px"></div>
+      </div>
+    </div>
+	</div>
+</div>
+
