@@ -1,6 +1,20 @@
 ---
 layout: index
 title: Hollyburn Sailing Club
+link_bar:
+    - name: Home
+      href: /
+      class: active
+    - name: About
+      href: about
+    - name: Sailing
+      href: sailing
+    - name: Kayaking
+      href: kayaking
+    - name: Club House
+      href: club
+    - name: Contact
+      href: contact
 ---
 
 ## Posts

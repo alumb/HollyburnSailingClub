@@ -12,7 +12,8 @@ layout: default
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
+{% comment %}  
+<div class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -71,18 +72,47 @@ layout: default
     <span class="sr-only">Next</span>
   </a>
 </div>
+{% endcomment %}  
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    {% for banner in site.banners %}
+      <li data-target="#myCarousel" data-slide-to="{{ forloop.index0 }}" class="{{ banner.class }}"></li>
+    {% endfor %}
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    {% for banner in site.banners %}
+    <div class="item {{ banner.class }}">
+        <img src="{{ banner.img }}" alt="{{ banner.alt }}">
+        <div class="container">
+          <div class="carousel-caption">
+            <h1>{{ banner.title }}</h1>
+            <p>{{ banner.output }}</p>
+            <p><a class="btn btn-lg btn-primary" href="{{ banner.button_href }}" role="button">{{ banner.button_text }}</a></p>
+          </div>
+        </div>
+    </div>
+    {% endfor %}
+  </div>
+  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 <div class="container">
 
   <div class="masthead">
     <div role="navigation">
       <ul class="nav nav-justified">
-        <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Sailing</a></li>
-        <li><a href="#">Kayaking</a></li>
-        <li><a href="#">Club House</a></li>
-        <li><a href="#">Contact</a></li>
+        {% for link in page.link_bar %}
+          <li class="{{ link.class }}"><a href="{{ link.href }}">{{ link.name }}</a></li>          
+        {% endfor %}
       </ul>
     </div>
   </div>

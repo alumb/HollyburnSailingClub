@@ -72,3 +72,5 @@ collections:
   static_pages: 
     output: true
     permalink: /../:path/
+  banners:
+
